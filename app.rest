@@ -42,4 +42,3 @@ Content-Type: application/json
 # @name DeleteTodoById
 DELETE {{BaseUrl}}/todos/{{todoId}}
 ###
-//
